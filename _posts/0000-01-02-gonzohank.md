@@ -2,6 +2,8 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Whoop Whoop
+def foo():
+    if not bar:
+        return True
 Use the left arrow to go back!
 
